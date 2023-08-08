@@ -2138,9 +2138,8 @@
         margin-top: 60px;
     }
 
-    .fixed{
+    .fixedd{
         height: 200px;
-        /* background-color: #D6A354; */
         display: flex;
         align-items:center ;
         flex-direction: column;
